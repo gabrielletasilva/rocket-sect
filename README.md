@@ -8,6 +8,7 @@ Este projeto foi criado com o objetivo de estudar HTML e CSS e aplicar os concei
 Tecnologias Utilizadas
 
 HTML5
+
 CSS3
 
 Funcionalidades da página
@@ -17,8 +18,11 @@ A página é composta por vários elementos HTML e CSS, que incluem:
 Cabeçalho com a logo
 
 Banner com imagem de fundo
+
 Seção "Inicio" 
+
 Seção "Serviços" 
+
 Seção "Contato" 
 
 Executando o projeto
