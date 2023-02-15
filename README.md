@@ -13,7 +13,9 @@ CSS3
 Funcionalidades da página
 
 A página é composta por vários elementos HTML e CSS, que incluem:
+
 Cabeçalho com a logo
+
 Banner com imagem de fundo
 Seção "Inicio" 
 Seção "Serviços" 
