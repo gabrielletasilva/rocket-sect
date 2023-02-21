@@ -33,7 +33,7 @@ Como contribuir
 
 Este projeto é destinado a ser usado como um exemplo de estudo e não é um projeto colaborativo.
 
-Autor
+Autor:  Com carinho Gabi e Rocketseat <3
 
 Este projeto foi criado pela Rocketseat como parte do curso de full stack. 
 ![layout_rocketsect](https://user-images.githubusercontent.com/82898190/219156399-82ebb8c2-327b-468b-9200-4374deb8ace9.png)
